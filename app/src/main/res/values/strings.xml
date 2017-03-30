@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="set">SET</string>
+    <string name="mm_dd_yyyy">mm/dd/yyyy</string>
+    <string name="clear">CANCEL</string>
+    <string name="done">DONE</string>
+    <string name="country">Country</string>
+    <string name="state">State</string>
+    <string name="done_save">Done</string>
+    <string name="state_value">State</string>
+    <string name="select_a_country">Select a Country</string>
+    <string name="countryclearbutton">CANCEL</string>
+</resources>
